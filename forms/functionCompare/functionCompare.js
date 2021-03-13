@@ -1,5 +1,5 @@
-pass = prompt('Enter your password:')
-confirm = prompt('Confirm your password:')
+let pass = prompt('Enter your password:')
+let confirm = prompt('Confirm your password:')
 
 function Compare(pass1, pass2) {
     if (pass1.localeCompare(pass2) == 0)
