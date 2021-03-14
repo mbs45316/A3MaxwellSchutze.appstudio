@@ -1,3 +1,4 @@
+/*
 let pass = prompt('Enter your password:')
 let confirm = prompt('Confirm your password:')
 
@@ -12,3 +13,5 @@ if (Compare(pass, confirm) == true)
     console.log('The passwords are the same')
 else
     console.log('The passwords are not the same')
+    
+*/

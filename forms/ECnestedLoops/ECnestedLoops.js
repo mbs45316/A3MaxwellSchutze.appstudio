@@ -1,3 +1,4 @@
+/*
 let rows = prompt('Enter the desired number of rows:')
 let columns = prompt('Enter the desired number of columns:')
 
@@ -10,3 +11,4 @@ for (i = 0; i < rows; i++) {
     document.writeln("<br />")
     pattern = ''
 }
+*/
