@@ -1,3 +1,4 @@
+/*
 let input = prompt('Enter a city (to stop, enter "Stop"):')
 
 let cities = []
@@ -13,3 +14,4 @@ while (x != cities.length) {
     console.log(cities[x].toLowerCase())
     x++
 }
+*/
